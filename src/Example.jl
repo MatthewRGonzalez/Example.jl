@@ -15,8 +15,7 @@ Return `x + 5`.
 """
 domath(x::Number) = x + 5
 
-plusone(x::Int64)= x + 1
-
+domore(x)  = "hw"
 
 end
 
