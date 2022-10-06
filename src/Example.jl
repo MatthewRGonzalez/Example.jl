@@ -16,7 +16,7 @@ Return `x + 5`.
 domath(x::Number) = x + 5
 
 domore(x)  = "hw"
-
+domore2(x)  = "hw2"
 end
 
 
